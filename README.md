@@ -1,4 +1,5 @@
 # the_dump_calculator
 my first python code
 lol
-https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Casio_calculator_JS-20WK_in_201901_002.jpg/800px-Casio_calculator_JS-20WK_in_201901_002.jpg
+![image](https://github.com/superthecat/the_dump_calculator/assets/148200287/9ccb9a37-ea2e-4d7c-afd5-c03f471901b5)
+
